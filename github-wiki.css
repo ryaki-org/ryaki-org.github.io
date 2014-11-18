@@ -1,0 +1,33 @@
+    #logo {
+        width: 140px;
+        position: fixed;
+        left: 0px;
+        top: 0px;
+    }
+    #edit {
+        padding: 0px;
+        position: fixed;
+        left: 0px;
+        bottom: 20px;
+    }
+    .pure-button {
+        width: 70%;
+    }
+    #main {
+        position:absolute;
+        left:145px;
+    }
+    .markdown-body {
+        margin: 0;
+        padding: 1%;
+    }
+    #empty_space {
+        height:200px;
+    }
+    .images {
+        position:absolute;
+        right: 0%;
+        width: 15%;
+        margin: 0;
+        padding: 0;
+}
