@@ -39,6 +39,9 @@ function load_article(title) {
             $("#article").empty();
             $("#article").append(html);
 
+            //Create the Math formulas
+            MathJax.Hub.Typeset();
+
             //Extend the height a few pixels so that all images are shown.
             var ah = $("#article").append("<div id='empty_space' </div>");
 
