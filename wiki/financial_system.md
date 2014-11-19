@@ -7,7 +7,7 @@ Ryaki's financial system is composed of a number of financial accounts , and rul
 
 We call this a **trust line** from member \\(m\\) to credit source \\(c\\) with limit \\(l\\). 
 
-**[[investor unit]]s or [[production unit]]s cannot create trust links. Their only purpose is to produce things. They do not hold any financial accounts.**
+**[[investment unit]]s or [[production unit]]s cannot create trust links. Their only purpose is to produce things. They do not hold any financial accounts.**
 
 ## Exchangeability between 2 trust lines.
 
