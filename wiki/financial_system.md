@@ -5,7 +5,11 @@ Ryaki's financial system is composed of a number of financial accounts , and rul
 
 * A ryaki member can choose to trust that a [[credit source]] will be able to return a sum of money due to the production that it will engage in the future. The ryaki member creates an account on this credit source and specifies the limit of credit that it can hold. 
 
-We call this a **trust line** from member \\(m\\) to credit source \\(c\\) with limit \\(l\\).
+We call this a **trust line** from member \\(m\\) to credit source \\(c\\) with limit \\(l\\). 
+
+**[[investor unit]]s or [[production unit]]s cannot create trust links. Their only purpose is to produce things. They do not hold any financial accounts.**
+
+## Exchangeability between 2 trust lines.
 
 * For any two trust lines that a member has, the member agrees that any transfer of credit from one account to the other is permitted.
 

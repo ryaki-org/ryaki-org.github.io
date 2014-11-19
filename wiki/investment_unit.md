@@ -3,6 +3,7 @@ An **investment schema** is bound by the rules of the [[financial system]] of Ry
 * a [[production schema]].
 * an [[investment equation]].
 * a sum of money that is required for such a schema to be materialized.
+* a [[profit equation]].
 
 An **investment unit** is a materialized investment schema. 
 
