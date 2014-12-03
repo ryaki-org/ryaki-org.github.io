@@ -5,3 +5,5 @@ The revenue is distributed to the investors according to the [[fair queue algori
 It is prohibited to make loans to customers. All payments should be immediate.
 
 It is also responsible in hosting a [[ryaki node]] that processes any internal transactions.
+
+please check: [ovns](//ovns.github.io)
