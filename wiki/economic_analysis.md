@@ -169,3 +169,6 @@ Now we have n-1 investors, thus the rate of return per investor increases. We co
 *comment:* In this formula we do not take into account the actual number of investors that will have credit in the credit source. Maybe though it is not necessary to do so.
 
 
+
+//TODO 
+** Because producers can accept internal payments if the investors do not want to, I expect the limits to be very high. We need to prove this.
