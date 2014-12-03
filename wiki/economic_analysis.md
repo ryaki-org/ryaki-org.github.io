@@ -34,7 +34,7 @@ $$ i_{rri} = e_j(1-I_{ej})V_{ei} $$
 
 **Definition 2**
 
-We call \\(r_{ci} = \frac{i_{rri}}{n_i}\\) the current average rate of return per investor for credit source \\(c_i\\).
+We call \\(r_{i}(m) = \frac{i_{rri}}{n_i}\\) the rate of return per investor for credit source \\(c_i\\) at the \\(mn_i\\) -th value that is to be produced and exchanged.
 
 
 **Lemma 2**
@@ -71,7 +71,7 @@ If we assume that
 
 * both types of consumers have equal chance to use ryaki.
 
-Then the optimal way for an investor that has credit in credit source \\(c\\) to maximize his rate of return is to open trust links of minimum limit with \\(m\\) credit sources such that:
+Then the optimal way for an investor that has credit in credit source \\(c\\) to maximize his rate of return is to open trust links of minimum limit with all \\(m\\) credit sources such that:
 $$R_v\approx \sum_{j=1}^{m}R_{ej}$$
 Then his internal rate of return is:
 
@@ -89,7 +89,10 @@ $$R_{er} = R_v$$
  We get that credit into money at rate \\(R_{ej}\\). By linking to multiple credit sources, we make sure to find enough paths so that all our potential internal purchases are transformed into money.
 
 
-*comment:* Creating trust links of minimum limit doesn't create any problems at all while at the same time helps to connect with customers that have low value bandwidth toward us.
+*comment:* 
+
+* Creating trust links of minimum limit doesn't create any problems at all while at the same time helps to connect with customers that have low value bandwidth toward us.
+* Risk places a limit on the number of credit sources we create a trust link to.
 
 **Lemma 4** 
 
@@ -114,9 +117,29 @@ Thus we need to determine \\(R_j\\) as accurately as possible.
 * the internal traversing transactions.
 * internal transactions of the product of the investment.
 
+**Lemma 5**
+
+* Let \\(r_1',r_2'\\) where
+$$r_{ij}'=\frac{r_i(m_{ij-})}{n_{ij}+1}n_{ij}$$
+and 
+$$r_i= \\{r_{ij}'|j=1...n_i\\}$$
+
+Then an investor of \\(m\\) credit maximizes his rate if his distribution \\(m_1,m_2\\) solves this equation.
+
+if 
+$$m_1=\sum_{j=1}^{k_1}m_{1j} $$
+$$m_2=\sum_{j=1}^{k_1}m_{2j} $$
+then
+$$\sum_{j=1}^{k_1}\frac{m_{1j}}{r_{1j}'}=\sum_{j=1}^{k_2}\frac{m_{2j}}{r_{2j}'}$$
+
+His average rate of return is 
+$$R_1(m_1)+R_2(m_2)$$
+
+*proof:* Both \\(m_1,m_2\\) need to complete being transformed into money at the same time.
+
 ## Determining the profit equation
 
-**lemma 5**
+**lemma 6**
 
 Let \\(i_n\\) the interest rate for the investment of money for one month in exchange for investment credit. (The investment credit has greater risk than a loan because the repayment depends on the sales of the product.)
 

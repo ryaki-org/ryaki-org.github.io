@@ -1,6 +1,6 @@
 A **producer** is any person that produces things as part of a [[production unit]]. A producer can be a [[credit source]] and depending on the number of times it created credit, it can have multiple [[investment equation]]s.
 
-As a credit source, it is important to know what kind of production will the producer most probably take in the future. To achieve that we have the below tools:
+As a credit source, it is important to know what kind of production the producer will most probably take in the future. To achieve that we have the below tools:
 
 * All previous productions of commodities are open for the public to see. This can show the type of production th person likes or/and has skill in.
 * Certification of the skills of a person can do the same thing but it can not detect the willingness of the person to work.
