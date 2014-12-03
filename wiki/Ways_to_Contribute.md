@@ -17,6 +17,9 @@ We need a formal proof that the system has these 2 characteristics:
 * the ryaki network has an economic advantage that will lead its internal network to expand.
 * there doesn't exist an accumulation of value to a small number of people.
 
-We need to find any possible financial rule incosistencies that make the network impossible to function.
+We need to find any possible financial rule incosistencies that make the network impossible to function. Specifically:
+
+* Is the connectivity of the network high enough to allow transactions to happen?
+* Is there an incentive to have such a high connectivity?
 
 We also need to chech for the existence of economic behaviour that could potentially remove the above characteristics.
