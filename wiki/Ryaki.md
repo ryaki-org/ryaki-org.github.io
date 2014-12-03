@@ -12,3 +12,4 @@ The ryaki system has some characteristics:
 
 
 **[[Ways to Contribute]]**
+[[Proposals]]
