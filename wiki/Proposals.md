@@ -1,1 +1,1 @@
-* Each user has to set a limit that is double the amount of his credit.
+* Each user has to set limits so that their sum is double the amount of his total credit.
