@@ -1,8 +1,5 @@
 
 
-*Open Value Networks*
-
-
 
 With the advent of the computer and the internet, we are able to communicate and coordinate with an increasing number of people. That has allowed new possibilities in the organizational forms of production that were never possible before.
 
@@ -21,7 +18,7 @@ For the above advantages, the OVN model is trying to foster this form of product
 
 The OVN model is a model of production in which we have radical transparency and radical openness.
 
-What does radical transparency mean?
+***What does radical transparency mean?***
 
  The economy currently works with the collaboration of multiple process around the world that coordinate their efforts to produce products. 
 
@@ -36,7 +33,7 @@ What does radical transparency mean?
 
  The ability to search and analyze these data allows for different groups that were otherwise isolated and small to interconnect. This has the profound advantage that these small groups can cooperate, coproduce value and thus be able to compete with traditional companies with a higher number of capital assets.  Moreover the information about the supply chains allows people to suggest more efficient  supply chains and at the same time bypass the supply chain middlemen entirely.
 
- What does radical openness mean?
+***What does radical openness mean?***
 
  Radical openness means that any person is able to join a production process. The only constrains  are there to protect the shared resources, the commons. This has a profound effect on the way the production process works. 
 
@@ -44,14 +41,14 @@ What does radical transparency mean?
 
  From an ethical point of view, the production process tries to maximize product value rather than profits. At the same time revenue is distributed to a greater number of people. Because everyone is free to join and cocreate value, in an open and democratic way, people love to work, they work on things they like or are good at.
 
- Software infrastructure and value accounting
+**Software infrastructure and value accounting**
 
  To achieve these goals, we are building software for the OVN. This is a work in progress. We need tools that publish the information of projects, searches the information and provide interesting results. We need tools to log the work that each participant has done so as to compensate him according to his contributions. We need tools that can coordinate a great number of people while at the same time reduce the information overload.
 
  The people that work on these tools form a network too. Each with his own point of view, our software complement each other. You can find a review of the tools we have already built or are building in the following sections.
 
 
- Legal structure.
+**Legal structure.**
 
  The legal structure of the processes that take part in an OVN is still debatable. We are experimenting with a specific form of legal structure in which we try to achieve the below goals.
 
@@ -71,11 +68,11 @@ What does radical transparency mean?
  The next two sections describe groups/projects that are using the OVN model as well as the software that is used by them. They have been written in collaboration with the 2 programmers of the software, Bob Haugen, Lynn Foster as well as Tiberius Brastaviceanu, one of the founders of Sensorica.
 
 
- Open Value Networks for producing material goods
+ **Open Value Networks for producing material goods**
 
  Peer production has been recognized mostly in the domain of open source software. But now, OVNs for producing material goods are emerging. 
 
- Sensorica
+ **Sensorica**
 
  Sensorica, in Montreal Canada, is the pioneer, developing the organizational patterns and production and financial practices that can make such OVNs work.
  http://www.sensorica.co/
@@ -83,6 +80,7 @@ What does radical transparency mean?
  Sensorica specializes in open hardware, especially sensors and other related electronic devices.
 
  Here is the short version of their extensive project list:
+
  2D strain transducer
  3D printer project
  Accessibility platform
@@ -110,7 +108,8 @@ What does radical transparency mean?
  Ultrasonic Audio Recorder
  Water Filtration System
 
- Food Networks
+ **Food Networks**
+
  Food networks to aggregate and distribute food from many farmers to many customers have been sprouting up around the world. They are not exactly the same as Open Value Networks: they tend more to organize as cooperatives. But they share a lot of the same patterns.
  Here’s one from New England in the US:
 
@@ -151,7 +150,8 @@ What does radical transparency mean?
 
 
  The following sections describe other projects and tools.
- Ryaki
+ 
+**Ryaki**
 
  Ryaki is the project that the main author of this article is working on.  Ryaki wants to build tools to achieve 2 goals. 
 
@@ -164,7 +164,7 @@ What does radical transparency mean?
  A site describing it: www.ryaki.org
 
 
- Wezer
+ **Wezer**
 
  Wezer is ERP (Enterprise Resource Planning) for non enterprises.  It is a distribution of Odoo (ex Open ERP), containing a set of integrable Odoo modules designed for P2P actions.  
  Each community can determine its appropriate package.
@@ -188,46 +188,47 @@ What does radical transparency mean?
 
 
  Other related projects:
- EISSP
+ 
+ ***EISSP***
 
  http://bshambaugh.org/eispp/
 
- Metacurrency
+ ***Metacurrency***
 
  http://www.metacurrency.org/
 
- TransforMap
+ ***TransforMap***
 
  http://transformap.co/
 
- Portable Linked Profiles
+ ***Portable Linked Profiles***
 
  https://github.com/hackers4peace/plp-docs
 
- Metamaps
+ ***Metamaps***
 
  http://metamaps.cc/
 
- buildingCommons
+ ***buildingCommons***
 
- Open Apps Ecosystem
+ ***Open Apps Ecosystem***
 
  http://p2pfoundation.net/Enspiral_Open_App_Ecosystem
  http://www.enspiral.com/
 
- ShareTribe
+ ***ShareTribe***
 
  http://www.sharetribe.com/
 
- Produce Run
+ ***Produce Run***
 
  - https://github.com/producerun/produceruncatarse
 
- Ernte Teilen
+ ***Ernte Teilen***
 
  https://github.com/teikei
 
- Open Food Network
+ ***Open Food Network***
 
  http://openfoodnetwork.org/
 

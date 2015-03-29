@@ -1,6 +1,6 @@
 **Ryaki** is a new financial and production system. Ryaki consists of a number of [[producer]]s that group in [[production unit]]s and use [[investment unit]]s. Its members connect to form the [[ryaki payment network]].
 
-The ryaki system introduces an exchange layer on top of the [Open Value Network](//ovns.github.io) model.
+The ryaki system introduces an exchange layer on top of the [Open Value Networks](//ovns.github.io) model.
 
 The ryaki system has some characteristics:
 
@@ -14,3 +14,5 @@ The ryaki system has some characteristics:
 **[[Ways to Contribute]]**
 
 [[Proposals]]
+
+[[Open Value Networks]] article for the [Greek Commons Festival](//commonsfest.info).
